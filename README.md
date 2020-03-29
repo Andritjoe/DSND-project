@@ -27,3 +27,8 @@ The following Airbnb activity is included in this Seattle dataset, which can be 
 - Listings - including full descriptions and average review score
 - Reviews - including unique id for each reviewer and detailed comments
 - Calendar - including listing id and the price and availability for that day
+
+## Analysis
+
+The detailed analysis can be found at my medium post: 
+- https://medium.com/@andri.sumitro93/should-i-invest-in-airbnb-seattle-318bf6ae294d
